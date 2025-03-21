@@ -59,18 +59,22 @@ public class CalculadoraSimples {
 
     }
 
+    // Método para realizar adição
     public static double adicionar(double a, double b) {
         return a + b;
     }
 
+    // Método para realizar subtração
     public static double subtrair(double a, double b) {
         return a - b;
     }
 
+    // Método para realizar multiplicação
     public static double multiplicar(double a, double b) {
         return a * b;
     }
 
+    // Método para realizar divisão
     public static double dividir(double a, double b) {
         return a / b;
     }
