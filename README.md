@@ -13,17 +13,20 @@ Uma calculadora simples em Java que permite realizar as operações básicas: ad
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/BrunoSantana1/calculadora_java.git
+   git clone https://github.com/BrunoSantana1/calculadora-simples.git
    ```
-2. Compile o código:
+2. Acesse a pasta do projeto:
+   ```bash
+   cd calculadora-simples/src
+   ```
+3. Compile o código:
    ```bash
    javac CalculadoraSimples.java
    ```
-3. Execute o programa:
+4. Execute o jogo:
    ```bash
    java CalculadoraSimples
    ```
-4. Siga as instruções no terminal para inserir os números e escolher a operação desejada.
 
 ## 🌟 Exemplo de Uso
 
